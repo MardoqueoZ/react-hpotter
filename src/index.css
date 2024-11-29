@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/harry-potter');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#titulo {
+    font-family: 'Harry Potter', sans-serif;;
+}
+
+/* #menu {
+    display: flex;
+    flex-direction: row;
+    gap: 0.75rem;
+    justify-content: center;
+} */
+
