@@ -14,6 +14,9 @@ i18n.use(initReactI18next).init({
                 "desc_author": "J K (Joanne Kathleen) Rowling is the author of the seven books of the famous Harry Potter series. Loved by readers all over the world, the series has sold more than 500 million copies, has been translated into eighty languages, and has inspired eight hugely successful blockbuster films.",
                 "title_char_list": "Main Characters",
                 "search_input": "Search by name",
+                "char_not_found": "Character not found",
+                "view_char": "View character",
+                "footer": "All rights reserved",
             }
         },
         es: {
@@ -27,6 +30,9 @@ i18n.use(initReactI18next).init({
                 "desc_author": "J K (Joanne Kathleen) Rowling es autora de los siete libros de la famosa saga de Harry Potter. Amada por lectores de todo el mundo, la serie ha vendido más de 500 millones de ejemplares, se ha traducido a ochenta idiomas y ha inspirado ocho películas de enorme éxito de taquilla.",
                 "title_char_list": "Personajes Principales",
                 "search_input": "Buscar por nombre",
+                "char_not_found": "No se encontró el personaje",
+                "view_char": "Ver personaje",
+                "footer": "Todos los derechos reservados",
             }
         }
     },

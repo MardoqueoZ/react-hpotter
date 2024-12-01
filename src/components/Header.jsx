@@ -23,11 +23,11 @@ const Nav = () => {
     return (
         <header className="">
             <nav className="flex flex-row gap-3 justify-center text-white p-3 text-xl relative" id="menu">
-                <Link to='/' className="hover:underline">
+                <Link to='/' className="hover:underline font-bold" id="nav-item" >
                     {t('home')}
                 </Link>
                 
-                <Link to='/personajes' className="hover:underline">
+                <Link to='/personajes' className="hover:underline font-bold" id="nav-item" >
                     {t('char')}
                 </Link>
                 
